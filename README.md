@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me:
-- 🎓 20 y/o Electrical Engineering Student
+- 🎓 22 y/o Electrical Engineering Student
 - 💡 Passionate about Electronics + Software & combining them for fun projects
 - 🎮 Gamer at heart, coder by choice!
 - 🔥 Currently working on a **BetBotPoker** *(80% done! GUI coming soon!)*
